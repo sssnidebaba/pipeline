@@ -1,0 +1,4 @@
+repository "Line@ssl://wechat_os_qy0-5o2eda3lqhoq9nvssejlc@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
